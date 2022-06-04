@@ -1,6 +1,7 @@
-# pandadevolper.github.io
-so this is just me well testing stuff lol
+# My Website
 
-check out it here: https://pandadevolper.github.io/
+This is a place that I am testing HTML things on,
 
-If you are cool, like shrek, then bookmark it!
+Check out it here: https://pandadevolper.github.io/
+
+If you are cool, like shrek, then bookmark it, and star this repo!
