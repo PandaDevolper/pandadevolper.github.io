@@ -1,6 +1,12 @@
 <html>
   <head>
 
+
+
+
+
+
+
   <h1 style="font-family: cursive; text-align: center;">Ben's Website</h1>
 
 <title>Ben's Website</title>
@@ -22,6 +28,25 @@
       #space { width:200px; height:200px; bottom:0px; right:0px; }
 
     </style>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      
+      .column {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+      }
+      
+      /* Clearfix (clear floats) */
+      .row::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      </style>
+
   </head>
   <body    style="background-color:rgb(119, 158, 205)
    ;">
@@ -76,6 +101,16 @@
    
   <div class="column-2 large-profile">
   </div>
+
+  <div class="row">
+    <div class="column">
+      <img src="PandaDevolper/pandadevolper.github.io/images/DALL·E 2022-07-24 09.30.34 - Astronaut watching sunset from hills, digital art.png" alt="Snow" style="width:100%">
+    </div>
+    <div class="column">
+      <img src="PandaDevolper/pandadevolper.github.io/images/IMG_0980.png" alt="Forest" style="width:100%">
+    </div>
+  </div> 
+    
 
 
 
